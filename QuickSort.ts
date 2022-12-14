@@ -1,4 +1,3 @@
-
 function qs(arr: number[], lo: number, hi: number): void {
     if (lo >= hi) {
         return;
